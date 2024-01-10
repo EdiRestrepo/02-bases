@@ -8,5 +8,4 @@ import { Component } from '@angular/core';
 export class AppComponent {
   public title: string = '02-bases';
 
-  public counter: number = 10;
 }
